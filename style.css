@@ -55,6 +55,7 @@
   
   th.headerCell {
     background-color: #1E2C5B;
+    color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
   }
@@ -62,29 +63,41 @@
   .headerCell.dimension {
     background-color: #1E2C5B;
     border-right: 1px solid #BDC3C7; 
+    color: white;
+
   }
   
   .headerCell.pivot {
     background-color: #1E2C5B;
     border-right: 1px solid #BDC3C7; 
+    color: white;
+
   }
   
   .headerCell.measure {
     background-color: #1E2C5B;
     border-left: 1px solid #BDC3C7; 
+    color: white;
+
   }
   
   .headerCell.measure.calculation {
     background-color: #1E2C5B;
     border-left: 1px solid #BDC3C7;
+    color: white;
+
   }
   
   .headerCell.transposed.dimension {
     background-color: #1E2C5B;
+    color: white;
+
   }
   
   .headerCell.transposed.dimension.merged {
     background-color: #1E2C5B !important;
+    color: white;
+
   }
   
   /* .headerCell.dimension.headerRow {
