@@ -23,7 +23,7 @@ A Simple CSS Template to be loaded into Looker Reports
 
 ---
 
- - Move into your CSS file within Github, then run that link through https://raw.githack.com/ Take the link githack outputs and put into the "Load Custom CSS From" field within the Theme tab of the Looker editer
+ - Move into your CSS file within Github, then run that link through https://raw.githack.com/ Take the link githack outputs and put into the "Load Custom CSS From" field within the Theme tab of the Looker editer. Theme must be set to "Use Custom Theme"
 
 # Things to add
 
