@@ -47,7 +47,7 @@
   
   .reportTable {
     font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
-    color: white;
+    color: #696969;
     border-collapse: collapse;
     border-spacing: 3px;
     table-layout: fixed;
@@ -159,7 +159,7 @@
   }
   
   .estimate {
-    color: white !important;
+    color: darkgray !important;
   }
   
   .singleIndex {
