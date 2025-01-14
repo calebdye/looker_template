@@ -200,3 +200,11 @@
     margin: 4px;
   }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust as needed */
+  text-align: center;
+}
+
