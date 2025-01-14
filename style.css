@@ -160,11 +160,11 @@
   }
   
   .nonNumeric {
-    text-align: left;
+    text-align: center;
   }
   
   .numeric {
-    text-align: right;
+    text-align: center;
   }
   
   .negative {
@@ -199,3 +199,4 @@
     font-family: Open Sans,Helvetica,Arial,sans-serif;
     margin: 4px;
   }
+
